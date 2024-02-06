@@ -1,23 +1,23 @@
 module.exports = {
-  siteUrl: "https://{REPO_NAME}.com", // Site domain. Do not include a trailing slash!
+  siteUrl: "https://ysawi.com", // Site domain. Do not include a trailing slash!
 
   postsPerPage: 12, // Number of posts shown on paginated pages (changes this requires sometimes to delete the cache)
 
-  siteTitleMeta: "{REPO_NAME}.com", // This allows an alternative site title for meta data for pages.
+  siteTitleMeta: "ysawi.com", // This allows an alternative site title for meta data for pages.
   siteDescriptionMeta:
-    "{REPO_NAME}.com", // This allows an alternative site description for meta data for pages.
+    "ysawi.com", // This allows an alternative site description for meta data for pages.
 
   shareImageWidth: 1000, // Change to the width of your default share image
   shareImageHeight: 523, // Change to the height of your default share image
 
-  shortTitle: "{REPO_NAME}.com", // Used for App manifest e.g. Mobile Home Screen
+  shortTitle: "ysawi.com", // Used for App manifest e.g. Mobile Home Screen
   siteIcon: "favicon.png", // Logo in /static dir used for SEO, RSS, and App manifest
   backgroundColor: "#e9e9e9", // Used for Offline Manifest
   themeColor: "#15171A", // Used for Offline Manifest
   apiUrl: "https://wordpress.theasdfghjkl.com",
   subscribeWidget: {
     visible: false,
-    title: "{REPO_NAME}.com",
+    title: "ysawi.com",
     helpText: "Stay updated",
     successMessage: "Thank you The message was sent successfully",
   },
@@ -25,11 +25,11 @@ module.exports = {
     navigation: [
       {
         label: "Homepage",
-        url: "https://{REPO_NAME}.com/",
+        url: "https://ysawi.com/",
       },
       {
         label: "Contact",
-        url: "https:/{REPO_NAME}.com/contact",
+        url: "https:/ysawi.com/contact",
       },
     ],
   },
@@ -38,16 +38,16 @@ module.exports = {
     navigation: [
       {
         label: "Homepage",
-        url: "https://{REPO_NAME}.com/",
+        url: "https://ysawi.com/",
       },
       {
         label: "Sitemap",
-        url: "https://{REPO_NAME}.com/sitemap.xml",
+        url: "https://ysawi.com/sitemap.xml",
       },
       
       {
         label: "Contact",
-        url: "https://{REPO_NAME}.com/contact",
+        url: "https://ysawi.com/contact",
       },
               
     ],
@@ -70,9 +70,9 @@ module.exports = {
     successMessage: "We’ll get in touch with you soon.",
   },
   metadata: {
-    title: "{REPO_NAME}.com",
+    title: "ysawi.com",
     description:
-      "{REPO_NAME}.com",
+      "ysawi.com",
   },
   twitterCard: {
     title: "",
@@ -88,9 +88,9 @@ module.exports = {
     imageUrl: "facebookImage.png",
     appId: "2391725224459953",
   },
-  siteTitle: "{REPO_NAME}.com",
+  siteTitle: "ysawi.com",
   siteDescription:
-    "{REPO_NAME}.com",
+    "ysawi.com",
   language: "he",
   logoUrl: "",
   iconUrl: "",
