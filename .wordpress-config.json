@@ -1,5 +1,5 @@
 {
-  "baseUrl": "spider.ussl.co.il/{REPO_NAME}",
+  "baseUrl": "spider.ussl.co.il/ysawi",
   "protocol": "https",
   "hostingWPCOM": false,
   "useACF": true,
