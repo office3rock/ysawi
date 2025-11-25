@@ -1,15 +1,15 @@
 {
-  "baseUrl": "spider.ussl.co.il/ysawi",
-  "protocol": "https",
-  "hostingWPCOM": false,
-  "useACF": true,
-  "includedRoutes": [
-    "**/categories",
-    "**/posts",
-    "**/pages",
-    "**/media",
-    "**/tags",
-    "**/taxonomies",
-    "**/users"
-  ]
+    "baseUrl":  "reshet.jetdomains.co.il/ysawi",
+    "protocol":  "https",
+    "hostingWPCOM":  false,
+    "useACF":  true,
+    "includedRoutes":  [
+                           "**/categories",
+                           "**/posts",
+                           "**/pages",
+                           "**/media",
+                           "**/tags",
+                           "**/taxonomies",
+                           "**/users"
+                       ]
 }
